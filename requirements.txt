@@ -14,9 +14,9 @@ accelerate==0.24.0
 # 3D processing
 trimesh==4.0.5
 numpy-stl==3.0.1
-open3d==0.17.0
-pymeshlab==2022.2.post3
-scikit-image==0.22.0
+# open3d>=0.16.0  # TODO: Add when Python 3.13 support available
+# pymeshlab>=2022.2  # TODO: Add when Python 3.13 support available
+scikit-image>=0.21.0
 
 # Utilities
 numpy==1.24.3
