@@ -20,7 +20,7 @@ scikit-image>=0.24.0
 
 # Utilities
 numpy==2.2.6
-pillow==11.3.0
+pillow==12.1.1
 requests==2.32.5
 pydantic==2.10.6
 aiofiles==24.2.0
